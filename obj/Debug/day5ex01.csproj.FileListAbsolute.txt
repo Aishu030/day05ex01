@@ -1,0 +1,8 @@
+D:\mpahsis\day5\day5ex01\day5ex01\bin\Debug\day5ex01.exe.config
+D:\mpahsis\day5\day5ex01\day5ex01\bin\Debug\day5ex01.exe
+D:\mpahsis\day5\day5ex01\day5ex01\bin\Debug\day5ex01.pdb
+D:\mpahsis\day5\day5ex01\day5ex01\obj\Debug\day5ex01.csproj.AssemblyReference.cache
+D:\mpahsis\day5\day5ex01\day5ex01\obj\Debug\day5ex01.csproj.SuggestedBindingRedirects.cache
+D:\mpahsis\day5\day5ex01\day5ex01\obj\Debug\day5ex01.csproj.CoreCompileInputs.cache
+D:\mpahsis\day5\day5ex01\day5ex01\obj\Debug\day5ex01.exe
+D:\mpahsis\day5\day5ex01\day5ex01\obj\Debug\day5ex01.pdb
